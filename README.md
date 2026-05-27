@@ -1,11 +1,12 @@
 <div align="center">
 
-# CHROME SETUP
+# ChromeSetup
 
 **The Ultimate Windows Chrome Hardening & Debloat Toolkit**
 
 [![GitHub Release Downloads](https://img.shields.io/github/downloads/powershello/ChromeSetup/total?style=for-the-badge&logo=github&color=blue)](https://github.com/powershello/ChromeSetup/releases)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F61-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/b8ec93c9ec3f8d0101b6538e20e7bd208d3d2d1a7c071eb996a9138b116d1d67?nocache=1)
+[![GitHub Release](https://img.shields.io/github/v/release/powershello/ChromeSetup?style=for-the-badge&logo=github&color=orange)](https://github.com/powershello/ChromeSetup/releases)
 
 > *A 100% open-source Windows polyglot script that automates the installation, debloating, and extreme hardening of Google Chrome. Completely lock down Enterprise policies, restore Manifest V2 support, inject uBlock Origin at the byte-level, and eradicate all Google telemetry and AI bloatware.*
 
